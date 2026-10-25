@@ -1,6 +1,6 @@
 /* Replaced with the content hash and the complete asset list during build. */
-const VERSION = "cd5f8f5f21c47778";
-const FILES = ["index.html","assets/index-98-VNvTx.css","assets/index-Dcl8XsZY.js","manifest.webmanifest","icons/icon-192.png","icons/icon-512.png","icons/apple-touch-icon.png"];
+const VERSION = "00f394c7c3cc68bb";
+const FILES = ["index.html","assets/index-Dm9c-0gO.css","assets/index-2TtTkkU-.js","manifest.webmanifest","icons/icon-192.png","icons/icon-512.png","icons/apple-touch-icon.png"];
 const PREFIX = `panel-rpg:${self.registration.scope}:`;
 const CACHE = PREFIX + VERSION;
 const urls = FILES.map(file => new URL(file, self.registration.scope).href);
