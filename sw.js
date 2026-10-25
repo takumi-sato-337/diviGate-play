@@ -1,5 +1,5 @@
 /* Replaced with the content hash and the complete asset list during build. */
-const VERSION = "00f394c7c3cc68bb";
+const VERSION = "ac7530863c900fc3";
 const FILES = ["index.html","assets/index-Dm9c-0gO.css","assets/index-2TtTkkU-.js","manifest.webmanifest","icons/icon-192.png","icons/icon-512.png","icons/apple-touch-icon.png"];
 const PREFIX = `panel-rpg:${self.registration.scope}:`;
 const CACHE = PREFIX + VERSION;
